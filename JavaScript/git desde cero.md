@@ -379,3 +379,4 @@ Es un sistema de control de versiones que originalmente fue diseñado para opera
 ## GitIgnore
 
 esto es el nuevo contenido 
+este es el cambio desde la web
