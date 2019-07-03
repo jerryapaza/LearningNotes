@@ -378,4 +378,5 @@ Es un sistema de control de versiones que originalmente fue diseñado para opera
 
 ## GitIgnore
 
-Puedo modificar normal 
+afasdf
+
